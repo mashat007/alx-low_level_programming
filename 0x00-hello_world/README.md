@@ -1,1 +1,1 @@
-Hello world programming in C.
+Readme file for C hello world program
