@@ -79,4 +79,10 @@ void print_to_98(int n);
  *
  */
 void print_times_table(int n);
+/**
+  * main - prints the largest of 3 integers
+ *
+ * Return: 0
+ */
+int largest_number(int a, int b, int c);
 #endif
